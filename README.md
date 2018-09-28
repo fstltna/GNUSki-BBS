@@ -11,4 +11,10 @@ Official support sites: [Official Github Repo](https://github.com/fstltna/GNUSki
 
 ---
 
+You will need the following modules installed in your Perl with cpan:
+
+     cpan -i UI::Dialog
+     cpan -i Term::ReadKey
+     cpan -i Term::ANSIScreen
+
 If you need more help visit https://SynchronetBBS.org/
